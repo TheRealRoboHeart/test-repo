@@ -19,6 +19,7 @@ What else...?
 * ...and this
 * one more
 * and another one...
+* more nice bullets
 
 ![NicePic](https://www.odoo.com/documentation/15.0/_static/img/logos/odoo_logo.svg)
 
