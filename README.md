@@ -16,3 +16,5 @@ What else...?
 
 * This should work
 * ...and this
+
+![NicePic](https://www.odoo.com/documentation/15.0/_static/img/logos/odoo_logo.svg)
